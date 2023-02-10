@@ -2,7 +2,7 @@
 
 #Oasis infobyte Web Development and Designing Internship Project No= 01
 
-Intership Project TASK-1
+Intership Project Level 2 - Task-2
 
 Building a basic A-BASIC-TO-DO-WEBAPP using HTML,CSS and JASVASCIPT .
 
